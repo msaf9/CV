@@ -1,0 +1,25 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.box-1 {
+    padding: 1em;
+}
+
+.box {
+    border-radius: 15px 50px;
+    border-style: solid;
+    border-color: rgb(184, 71, 71);
+    padding: 20px;
+    border-collapse: separate;
+    border-spacing: 15px 50px;
+    background-color: lightgreen;
+}
+
+.header {
+    text-align: center;
+}
+
+.image {}
