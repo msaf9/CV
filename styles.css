@@ -22,4 +22,6 @@ body {
     text-align: center;
 }
 
-.image {}
+.image {
+    display: inline-block;
+}
