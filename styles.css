@@ -29,11 +29,13 @@ body {
     margin: 0%;
 }
 
-.header3 {
+.header3,
+.skills {
     text-align: center;
 }
 
-.header3>* {
+.header3>*,
+.skills>* {
     display: inline-block;
     vertical-align: middle;
     /* background-color: rgb(0, 88, 0); */
@@ -41,13 +43,36 @@ body {
 
 .cell-number,
 .email,
-.github {
+.github,
+.ui-design {
     width: 426px;
     height: 20px;
 }
 
 .line {
     border: 1px solid black;
+}
+
+.sub-header1,
+.sub-header2 {
+    margin: 0%;
+}
+
+p:first-of-type {
+    margin-top: 0.5em;
+}
+
+.ui-design,
+.services-development,
+.testing,
+.product-management,
+.collaboration {
+    width: 250px;
+    height: 20px;
+}
+
+.wipro {
+    margin: 0.5em;
 }
 
 /* .image {
