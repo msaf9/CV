@@ -109,6 +109,18 @@ p:first-of-type {
     margin-left: 120px;
 }
 
+.roles11 {
+    text-align: left;
+    margin-left: 120px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.research {
+    text-align: left;
+    margin-left: 80px;
+}
+
 .cs {
     text-align: left;
 }
