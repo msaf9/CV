@@ -9,4 +9,4 @@
 - CSS
 
 ### URL
-- You can find it over [here](https://msaf9.github.io/CV/ "CV")
+- You can find it over [here](https://msaf9.github.io/CV/ "CV").
