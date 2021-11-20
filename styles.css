@@ -91,14 +91,14 @@ p:first-of-type {
     margin-top: 0.5em;
 }
 
-/* .skills {
+.skills {
     text-align: center;
 }
 
 .ui-design, .services-development, .testing, .product-management, .collaboration, .devops {
     width: 250px;
     height: 20px;
-} */
+}
 
 .area {
     width: 350px;
