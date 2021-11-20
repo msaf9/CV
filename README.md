@@ -1,5 +1,5 @@
-# CV
-CV.
+# Resume
+Resume.
 
 ## Table of contents
 1. Introduction
@@ -14,23 +14,24 @@ A webpage for CV.
 ## Technologies
 - HTML
 - CSS
+- JavaScript
 - Git
 
 ### Deployment tools
 - GitHub pages
 
 ## Project status
-> **Continuous**
+> **Completed**
 
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/CV.git
-cd CV
+git https://github.com/msaf9/Resume.git
+cd Resume
 ```
 
 ### URLs
-> You can find it over [here](https://msaf9.github.io/CV/ "CV").
+> You can find it over [here](https://msaf9.github.io/Resume/ "CV").
 
 ## License
 ### Copyright
