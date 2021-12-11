@@ -9,7 +9,7 @@ Resume.
 5. License
 
 ## Introduction
-A webpage for CV.
+A webpage for Resume.
 
 ## Technologies
 - HTML
