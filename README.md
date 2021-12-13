@@ -11,6 +11,14 @@ Resume.
 ## Introduction
 A webpage for Resume.
 
+### Project structure
+  - resource
+      - favicon.png
+  - index.html
+  - styles.css
+  - main.js
+  - README.md
+
 ## Technologies
 - HTML
 - CSS
