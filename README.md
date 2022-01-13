@@ -40,7 +40,7 @@ cd Resume
 ```
 
 ### URLs
-> You can find it over [here](https://msaf9.github.io/Resume/ "CV").
+> You can find it over [here - GitHub pages](https://msaf9.github.io/Resume/ "CV").
 
 ## License
 ### Copyright
