@@ -11,6 +11,9 @@ Resume.
 ## Introduction
 A webpage for Resume.
 
+### Version 
+- 1.0 (initial version)
+
 ### Project structure
   - resource
       - favicon.png
