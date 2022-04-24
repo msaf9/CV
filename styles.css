@@ -26,6 +26,12 @@ hr {
     width: 75%;
 }
 
+@media only screen and (max-width: 1024px) {
+    .box {
+        width: 95%;
+    }
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -66,6 +72,12 @@ li a:hover:not(.active) {
 .role {
     text-align: left;
     margin-left: 60px;
+}
+
+@media only screen and (max-width: 1024px) {
+    .role {
+        margin: 20px;
+    }
 }
 
 .roles {
@@ -125,4 +137,14 @@ p:first-of-type {
 
 .float-right {
     float: right;
+}
+
+.font-size {
+    font-size: medium;
+}
+
+@media only screen and (max-width: 1024px) {
+    .font-size {
+        font-size: small;
+    }
 }
