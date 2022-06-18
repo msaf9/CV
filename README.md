@@ -1,12 +1,19 @@
 # Resume
 Resume.
 
-## Table of contents
-1. Introduction
-2. Technologies
-3. Project status
-4. Installation
-5. License
+- [Resume](#resume)
+  - [Introduction](#introduction)
+    - [Version](#version)
+    - [Project structure](#project-structure)
+  - [Technologies](#technologies)
+    - [Deployment tools](#deployment-tools)
+  - [Project status](#project-status)
+  - [Installation](#installation)
+    - [Get repository](#get-repository)
+    - [URLs](#urls)
+      - [GitHub Pages](#github-pages)
+  - [License](#license)
+    - [Copyright](#copyright)
 
 ## Introduction
 A webpage for Resume.
@@ -43,7 +50,8 @@ cd Resume
 ```
 
 ### URLs
-> You can find it over [here - GitHub pages](https://msaf9.github.io/Resume/ "CV").
+#### GitHub Pages
+> You can find it over [here](https://msaf9.github.io/Resume/ "CV").
 
 ## License
 ### Copyright
