@@ -45,8 +45,8 @@ A webpage for Resume.
 ## Installation
 ### Get repository
 ```git
-git https://github.com/msaf9/Resume.git
-cd Resume
+git https://github.com/msaf9/resume.git
+cd resume
 ```
 
 ### URLs
