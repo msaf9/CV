@@ -37,7 +37,7 @@ A webpage for Resume.
 
 ### Deployment tools
 - GitHub pages
-  - [Environments](https://msaf9.github.io/Resume/)
+  - [Environments](https://msaf9.github.io/resume/)
 
 ## Project status
 > **Completed**
