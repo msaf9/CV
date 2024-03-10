@@ -1,19 +1,20 @@
-# Resume
+<h1>Resume</h1>
 Resume.
 
-- [Resume](#resume)
-  - [Introduction](#introduction)
-    - [Version](#version)
-    - [Project structure](#project-structure)
-  - [Technologies](#technologies)
-    - [Deployment tools](#deployment-tools)
-  - [Project status](#project-status)
-  - [Installation](#installation)
-    - [Get repository](#get-repository)
-    - [URLs](#urls)
-      - [GitHub Pages](#github-pages)
-  - [License](#license)
-    - [Copyright](#copyright)
+<h2>Table of contents</h2>
+
+- [Introduction](#introduction)
+  - [Version](#version)
+  - [Project structure](#project-structure)
+- [Technology Stack](#technology-stack)
+  - [Deployment tools](#deployment-tools)
+- [Project status](#project-status)
+- [Installation](#installation)
+  - [Get repository](#get-repository)
+  - [URLs](#urls)
+    - [GitHub Pages](#github-pages)
+- [License](#license)
+  - [Copyright](#copyright)
 
 ## Introduction
 A webpage for Resume.
@@ -29,7 +30,7 @@ A webpage for Resume.
   - main.js
   - README.md
 
-## Technologies
+## Technology Stack
 - HTML
 - CSS
 - JavaScript
